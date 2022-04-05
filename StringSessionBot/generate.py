@@ -70,7 +70,7 @@ async def generate_session(bot, msg, telethon=False):
         await msg.reply('رقم الهاتف الذي ارسلته غير صالح قم بكتابة /restart ثم اعد المحاوله..', reply_markup=InlineKeyboardMarkup(Data.generate_button))
         return
     try:
-        phone_code_msg = await bot.ask(user_id, "قم بإرسال الكود الذي وصلك عبر تليجرام بالشكل التالي ( `1 2 3 4 5` )\nمع وجود فواصل بين كل رقم و الآخر\nللإلغاء ارسل /cancel\nللعوده للبدايه ارسل /restart\n\n**قناة السورس** @FA9SH", filters=filters.text, timeout=600)
+        phone_code_msg = await bot.ask(user_id, "قم بإرسال الكود الذي وصلك عبر تليجرام بالشكل التالي ( `1 2 3 4 5` )\nمع وجود فواصل بين كل رقم و الآخر\nللإلغاء ارسل /cancel\nللعوده للبدايه ارسل /restart\n\n**قناة السورس** @botatiiii", filters=filters.text, timeout=600)
         if await cancelled(api_id_msg):
             return
     except TimeoutError:
