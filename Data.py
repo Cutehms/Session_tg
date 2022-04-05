@@ -23,12 +23,12 @@ class Data:
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("- بدء استخراج جلسه .", callback_data="generate")],
-        [InlineKeyboardButton("𓌹●↯‌𝑫𝑨𝑫 𝑺𝑯𝑨𝑫𝑶𝑾↯●𓌺", url="https://t.me/KB_Shadow")],
+        [InlineKeyboardButton("𓌹●↯‌𝙷ٍْ𝙼ٍْ𝚂ْ 𓃠𝄬↯●𓌺", url="https://t.me/hms_01")],
         [
             InlineKeyboardButton("- طريقة الاستعمال ؟ .", callback_data="help"),
             InlineKeyboardButton("- حول البوت .", callback_data="about")
       ],
-        [InlineKeyboardButton("𝑬𝑹𝑹𝑶𝑹🖤", url="https://t.me/botatiiii")],
+        [InlineKeyboardButton("𓂄𓆩𝙼𝙰𝚈 𝙱𝙾𝚃𝚂𓆪𓂁", url="https://t.me/botatiiii")],
     ]
 
 
@@ -48,7 +48,7 @@ class Data:
 **- حول البوت .**
 ⚡ بوت تليجرام لاستخراج كود جلسة pyrogram و telethon:-
 
-- **قناة السورس**: [𝙼𝙰𝚈 𝙱𝙾𝚃𝚂 𖣴](https://t.me/botatiiii)
+- **قناة السورس**: [𓂄𓆩𝙼𝙰𝚈 𝙱𝙾𝚃𝚂𓆪𓂁](https://t.me/botatiiii)
 
 - **لغة البوت**: [Python](http://www.python.org/)
 
