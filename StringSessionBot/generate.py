@@ -109,7 +109,7 @@ async def generate_session(bot, msg, telethon=False):
         string_session = client.session.save()
     else:
         string_session = await client.export_session_string()
-    text = "**كود جلسة {} بالاسفل** \n\n`{}` \n\n**قناة السورس**: @FA9SH\n**جروب الدعم**: @shadow49".format("Telethon" if telethon else "Pyrogram", string_session)
+    text = "**كود جلسة {} بالاسفل** \n\n`{}` \n\n**قناة السورس**: @botatiiii\n**جروب الدعم**: @hmsrobot".format("Telethon" if telethon else "Pyrogram", string_session)
     try:
         await client.send_message("me", text)
     except KeyError:
