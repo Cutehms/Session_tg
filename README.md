@@ -2,7 +2,7 @@
 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴜsɪɴɢ ᴛʜɪs ʙᴏᴛ.
 
 <p align="center">
-  <img src="https://telegra.ph/file/119134daff10cf6049e55.jpg">
+  <img src="https://telegra.ph/file/5c35de30d5312ee97943b.jpg">
 </p>
 
 ## sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ:
@@ -15,6 +15,6 @@
 <a href="https://t.me/shadow49"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## ᴄʀᴇᴅɪᴛs
-ᴛʜɪs ᴄᴏᴅᴇ ɪs ᴍᴀᴅᴇ ʙʏ [xᴍᴀʀᴛʏ](https://t.me/FA9SH)
+ᴛʜɪs ᴄᴏᴅᴇ ɪs ᴍᴀᴅᴇ ʙʏ [𝙷𝙼𝚂](https://t.me/botatiiii)
 
 
