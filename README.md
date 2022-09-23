@@ -6,7 +6,7 @@
 </p>
 
 ## sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ:
-<a href="https://t.me/Tg_session_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/sessionhmsbot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## ᴅᴇᴘʟᴏʏ ɴᴏᴡ:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Cutehms/Session_tg)
